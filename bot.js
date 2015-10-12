@@ -19,7 +19,7 @@ function respond() {
 function postMessage() {
   var botResponse, options, body, botReq;
 
-  botResponse = "rad !";
+  botResponse = "right on !";
 
   options = {
     hostname: 'api.groupme.com',
